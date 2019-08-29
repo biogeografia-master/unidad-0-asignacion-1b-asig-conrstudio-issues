@@ -19,11 +19,11 @@ En la guía, ve a la sección **Realiza tu asignación**, subsección [**Usando 
 
 1.  Abre RStudio.
 2.  Clona este mismo repo que probablemente estarás leyendo desde GitHub.
-3.  Abre este documento `README.md`.
-4.  En la consola de R, escribe el siguiente código `sample(1:1000, 5)` y presiona `<enter>`
-5.  Copia el resultado de la consola y pégalo en este documento, justo dentro de las siguientes tildes diacríticas (no las borres, pega el resultado entre ambas): \` \`
+3.  Abre este documento `README.md`. **Recuerda, abre el que termina en `.md`, no el otro que se le parece mucho**.
+4.  En la consola de R, escribe el siguiente código `sample(1:1000, 5)` (cópialo y pégalo allá) y presiona la tecla `<enter>`
+5.  Copia el resultado de la consola y pégalo en este documento, justo dentro de las siguientes tildes diacríticas (borra el texto guía que puse pero no las comillas): `turesultadoaquí`
 6.  Ve a la pestaña Git y crea el `Commit` (sigue la guía).
-7.  Luego haz `Push` a los cambios (sigue la guía).
+7.  Luego haz `Push` (sigue la guía).
 8.  Verifica que los cambios se actualizaron en el repo de GitHub.
 
 Notifícame que has terminado
